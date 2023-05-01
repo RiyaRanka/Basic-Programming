@@ -1,6 +1,6 @@
 # C/C++ Programs 
 
-| No.  	| Questions                                                                                    	| Done/Not Done  |
+| No.  	| Programs                                                                                    	| Done/Not Done  |
 |------	|----------------------------------------------------------------------------------------------	|--------------- |
 | 1    	|Write a program to take two numbers as input from the user and print their sum.              	|   Done         |
 | 2    	|Write a program to take a number as input from the user and print whether it is even or odd.   |   Done         |
